@@ -1,0 +1,6 @@
+using $gpc-app-builder  create this app
+app title: TROUVE MARIN MICHEL
+app idea: An operations-focused app offering audit logs, task management, resource allocation, and supply ordering to streamline daily business tasks.
+company name: TROUVE MARIN MICHEL
+email address: [email to be provided later]
+the two icon and featured graphics contained in docs folder

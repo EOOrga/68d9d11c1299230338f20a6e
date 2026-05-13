@@ -1,0 +1,13 @@
+App name
+TROUVE MARIN MICHEL
+
+Short description
+Manage audits, tasks, resources, and supply orders in one offline operations app.
+
+Full description
+TROUVE MARIN MICHEL helps operations teams keep daily work organized on Android. The app brings audit logs, task assignments, resource allocation, and supply ordering into one local workspace.
+
+Use it to assign task owners, review blocked work, monitor resource utilization, prepare supply order records, and check the audit trail before handoff. Records and preferences stay on the device with no account setup or cloud sync.
+
+Category
+Business
