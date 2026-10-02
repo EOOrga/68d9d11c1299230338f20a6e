@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.trouvemarinmichel.trouve_marin_michel": {
+      "title": "TROUVE MARIN MICHEL",
+      "short_description": "Manage audits, tasks, resources, and supply orders in one offline operations...",
+      "full_description": "TROUVE MARIN MICHEL helps operations teams keep daily work organized on Android. The app brings audit logs, task assignments, resource allocation, and supply ordering into one local workspace.\n\nUse it to assign task owners, review blocked work, monitor resource utilization, prepare supply order records, and check the audit trail before handoff. Records and preferences stay on the device with no account setup or cloud sync.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:23:25.125524+00:00"
+    }
+  }
+}
