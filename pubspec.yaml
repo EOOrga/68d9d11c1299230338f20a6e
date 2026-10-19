@@ -1,4 +1,4 @@
-name: trouve_marin_michel
+name: mitchel
 description: Offline operations control for task, resource, supply, and audit records.
 publish_to: "none"
 
@@ -24,4 +24,6 @@ flutter:
 flutter_launcher_icons:
   android: true
   image_path: docs/icon.png
+  adaptive_icon_foreground: docs/icon.png
+  adaptive_icon_background: "#000FE0"
   min_sdk_android: 23

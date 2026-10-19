@@ -20,8 +20,8 @@ class TrouveMarinMichelApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     const navy = Color(0xFF061733);
-    const cyan = Color(0xFF16CAD3);
-    const blue = Color(0xFF126BE8);
+    const cyan = Color(0xFF007FE0);
+    const blue = Color(0xFF000FE0);
     const steel = Color(0xFF667B96);
 
     final lightScheme = ColorScheme.fromSeed(
