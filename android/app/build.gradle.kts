@@ -29,7 +29,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.trouvemarinmichel.trouve_marin_michel"
+        applicationId = "com.trouvemarinmichel.anuulaaa"
         minSdk = flutter.minSdkVersion
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
